@@ -14,7 +14,10 @@ x AdminUser -> STI
 - SMS Sending -> link to approval or overtime input
 - Administrate admin dashboard
 - Email summary to managers for approval
--Needs to be docuented if employees did not log overtime 
+- Needs to be docuented if employees did not log overtime 
 
 ## UI: 
 - Bootstrap -> formatting
+
+## Refactor TODOS: 
+- Refactor user association integration test in post_spec
